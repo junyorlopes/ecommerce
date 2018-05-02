@@ -19,8 +19,8 @@ class Page {
 
 		// config
 		$config = array(
-			"tpl_dir"       => $_SERVER["DOCUMENT_ROOT"]."/viwes/",
-			"cache_dir"     => $_SERVER["DOCUMENT_ROOT"]."/viwes-cache/",
+			"tpl_dir"       => $_SERVER["DOCUMENT_ROOT"]."/views/",
+			"cache_dir"     => $_SERVER["DOCUMENT_ROOT"]."/views-cache/",
 			"debug" 		=> false
 	   );
 
